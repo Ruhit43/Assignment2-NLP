@@ -1,0 +1,11 @@
+Input1
+
+Enter source word: ruhit
+Enter target word: rizon
+
+
+
+Input2
+
+Enter source word: qwert
+Enter target word: qwer
